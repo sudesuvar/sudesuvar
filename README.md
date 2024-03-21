@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sude</h1>
 <h3 align="center">I'm an İnformation Systems Engineering Student at Kocaeli University.</h3>
 
-- 💬 Ask me about **Html, Css, Javascript, kotlin**
+- 💬 Ask me about **Html, Css, Javascript, kotlin, php**
 
 - 📫 How to reach me **sudesuvar51@gmail.com**
 
