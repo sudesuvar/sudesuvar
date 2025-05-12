@@ -52,10 +52,6 @@ I'm an İnformation Systems Engineering Student at Kocaeli University.
 
 ### Social
 
-<a href="https://www.github.com/sudesuvar" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
 </a> &nbsp;
 <a href="https://www.linkedin.com/in/sude-deniz-suvar-/" target="_blank" rel="noreferrer">
 <picture>
@@ -67,8 +63,5 @@ I'm an İnformation Systems Engineering Student at Kocaeli University.
 #### My GitHub Stats
 
 <a
-href="http://www.github.com/sudesuvar"><img src="https://github-readme-stats.vercel.app/api?username=sudesuvar&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudesuvar's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/sudesuvar"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudesuvar&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-<br/>
+href="http://www.github.com/sudesuvar"><img src="https://github-readme-stats.vercel.app/api?username=sudesuvar&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudesuvar's GitHub stats" /></a> 
 <a href="https://github.com/sudesuvar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudesuvar&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
