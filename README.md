@@ -65,3 +65,10 @@ I'm an İnformation Systems Engineering Student at Kocaeli University.
 <a
 href="http://www.github.com/sudesuvar"><img src="https://github-readme-stats.vercel.app/api?username=sudesuvar&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudesuvar's GitHub stats" /></a> 
 <a href="https://github.com/sudesuvar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudesuvar&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudesuvar/sudesuvar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudesuvar/sudesuvar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sudesuvar/sudesuvar/output/pacman-contribution-graph.svg">
+</picture>
